@@ -22,8 +22,12 @@ namespace FirstBasicProgram
             //flip.ReadInput();
             //Console.Read();
 
-            LeapYear leapYear = new LeapYear();
-            leapYear.ReadInput();
+            //LeapYear leapYear = new LeapYear();
+            //leapYear.ReadInput();
+            //Console.Read();
+
+            PowerOfTwo poweroftwo = new PowerOfTwo();
+            poweroftwo.ReadInput();
             Console.Read();
         }
     }
