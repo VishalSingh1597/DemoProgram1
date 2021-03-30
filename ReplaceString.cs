@@ -11,16 +11,30 @@ namespace FirstBasicProgram
     /// </summary>
     class ReplaceString
     {
-        public static void ReadInput()
+        /// <summary>
+        /// reading input from user
+        /// </summary>
+        public void ReadInput()
         {
+            //given string template
             string template = "Hello <<UserName>>, How are you?";
+            // giving message to user
             Console.WriteLine("Please Enter your Name");
-            string userInput = Console.ReadLine();
+            // Reading input from user
+            string userInput=Console.ReadLine();
+            //calling replace() method
             ReplaceWord(template, userInput);
         }
-        private static void ReplaceWord(string template, string userInput)
+        /// <summary>
+        /// Created replace() method to perform replacement
+        /// </summary>
+        /// <param name="template"></param>
+        /// <param name="userInput"></param>
+        private static void ReplaceWord(string template,string userInput)
         {
+            //using predefined string Replace() method to perform replace operation
             string result=template.Replace("<<userName>>", userInput);
+            //finally displaying updated template/statement
             Console.WriteLine("After done Replace " + result);
         }
     }
