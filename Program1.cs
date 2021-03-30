@@ -16,9 +16,15 @@ namespace FirstBasicProgram
             //ReplaceString replace = new ReplaceString();
             //replace.ReadInput();
             //ReplaceString.ReadInput();
-            FlipCoin flip = new FlipCoin();
-            flip.ReadInput();
-           //Console.Read();
+            //Console.Read();
+
+            //FlipCoin flip = new FlipCoin();
+            //flip.ReadInput();
+            //Console.Read();
+
+            LeapYear leapYear = new LeapYear();
+            leapYear.ReadInput();
+            Console.Read();
         }
     }
 }
