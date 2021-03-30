@@ -1,0 +1,16 @@
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.csprojAssemblyReference.cache
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.AssemblyInfoInputs.cache
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.AssemblyInfo.cs
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.csproj.CoreCompileInputs.cache
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\FirstBasicProgram.exe
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\FirstBasicProgram.deps.json
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\FirstBasicProgram.runtimeconfig.json
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\FirstBasicProgram.runtimeconfig.dev.json
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\FirstBasicProgram.dll
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\ref\FirstBasicProgram.dll
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\bin\Debug\net5.0\FirstBasicProgram.pdb
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.dll
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\ref\FirstBasicProgram.dll
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.pdb
+E:\.NET\c#\FirstBasicProgram\FirstBasicProgram\obj\Debug\net5.0\FirstBasicProgram.genruntimeconfig.cache
