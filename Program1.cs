@@ -26,8 +26,12 @@ namespace FirstBasicProgram
             //leapYear.ReadInput();
             //Console.Read();
 
-            PowerOfTwo poweroftwo = new PowerOfTwo();
-            poweroftwo.ReadInput();
+            //PowerOfTwo poweroftwo = new PowerOfTwo();
+            //poweroftwo.ReadInput();
+            //Console.Read();
+
+             HarmonicProgram harmonic = new HarmonicProgram();
+            harmonic.ReadInput();
             Console.Read();
         }
     }

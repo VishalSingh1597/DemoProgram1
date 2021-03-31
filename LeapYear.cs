@@ -17,7 +17,7 @@ namespace FirstBasicProgram
                 int year = Convert.ToInt32(leapyear);
                 //converted string into integer value
                 if ((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))) 
-                //Enter Year such as 1900 2100 2000 ...
+                //Enter any year of your choice
                     Console.WriteLine($"It is a Leap Year");
                 else
                     Console.WriteLine($"It is Not a Leap Year");

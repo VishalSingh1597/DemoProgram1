@@ -19,12 +19,12 @@ namespace FirstBasicProgram
             int num = 1;
             int i = 1;
             // count from 0 to N
-            int LimitPowerTwo = 31;
+            int LimitPowerTwo = 30;
             // repeat until i equals n
 
             if (number > LimitPowerTwo)
             {
-                Console.WriteLine($"You Enter of 2^ exceeds the value limit 31  ");
+                Console.WriteLine($"You Enter of 2^ exceeds the value limit 30  ");
                 // condition not equal to show message
             }
             else
