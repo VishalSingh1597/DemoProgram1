@@ -15,9 +15,6 @@ namespace FirstBasicProgram
             string nthNumber = Console.ReadLine();
             int nthnumber = Convert.ToInt32(nthNumber);
             Harmonic(nthnumber);
-            //Console.WriteLine("Please enter nth harmonic number");
-            //int nthNumber = Convert.ToInt32(Console.ReadLine());
-            //Harmonic(nthNumber);
             //Console.WriteLine("sum of all harmonic list "+result);
         }
 
