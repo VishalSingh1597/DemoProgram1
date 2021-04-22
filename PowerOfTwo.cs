@@ -37,6 +37,7 @@ namespace FirstBasicProgram
                     num = (num * 2);
                     // multiply number by 2
                     Console.WriteLine(num);
+                    
                 }
             }
 
