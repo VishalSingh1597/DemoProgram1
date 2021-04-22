@@ -33,6 +33,7 @@ namespace FirstBasicProgram
              HarmonicProgram harmonic = new HarmonicProgram();
             harmonic.ReadInput();
             Console.Read();
+            
         }
     }
 }
