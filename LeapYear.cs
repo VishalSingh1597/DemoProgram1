@@ -22,7 +22,6 @@ namespace FirstBasicProgram
                 else
                     Console.WriteLine($"It is Not a Leap Year");
 
-
             }
         }
     }
